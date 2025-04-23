@@ -1,11 +1,5 @@
-*.pyc
+venv/
 __pycache__/
 db.sqlite3
-*.log
+*.pyc
 .env
-.idea/
-.vscode/
-*.sqlite3
-*.swp
-staticfiles/
-media/
