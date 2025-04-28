@@ -4,8 +4,31 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="55429e97-8f4d-4765-be31-1fd34119ebc2" name="Changes" comment="">
+    <list default="true" id="665840aa-fc5c-40f6-9841-075ca7c4ab8a" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/dbnavigator.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/django_proj-main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/mysite.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/mysite.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app_blog/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/app_blog/admin.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app_blog/apps.py" beforeDir="false" afterPath="$PROJECT_DIR$/app_blog/apps.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app_blog/forms.py" beforeDir="false" afterPath="$PROJECT_DIR$/app_blog/forms.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app_blog/migrations/0001_initial.py" beforeDir="false" afterPath="$PROJECT_DIR$/app_blog/migrations/0001_initial.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app_blog/migrations/0002_remove_post_category_remove_post_author_and_more.py" beforeDir="false" afterPath="$PROJECT_DIR$/app_blog/migrations/0002_remove_post_category_remove_post_author_and_more.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app_blog/migrations/0003_initial.py" beforeDir="false" afterPath="$PROJECT_DIR$/app_blog/migrations/0003_initial.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app_blog/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/app_blog/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app_blog/templates/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/app_blog/templates/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app_blog/tests.py" beforeDir="false" afterPath="$PROJECT_DIR$/app_blog/tests.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app_blog/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/app_blog/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app_blog/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/app_blog/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/db.sqlite3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/manage.py" beforeDir="false" afterPath="$PROJECT_DIR$/manage.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mysite/asgi.py" beforeDir="false" afterPath="$PROJECT_DIR$/mysite/asgi.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mysite/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/mysite/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mysite/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/mysite/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mysite/wsgi.py" beforeDir="false" afterPath="$PROJECT_DIR$/mysite/wsgi.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,60 +38,51 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo">{
-  &quot;associatedIndex&quot;: 4
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;AndriyXACK&quot;
+  }
 }</component>
-  <component name="ProjectId" id="2wKLqzBWR9bVaefNWdl4EsUWzd2" />
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/AndriyXACK/django_proj.git&quot;,
+    &quot;accountId&quot;: &quot;e5b22e0d-6360-4300-8e29-cece3fc63dc0&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
+  <component name="ProjectId" id="2wJeTduOirRKmkOGUJzhTwUE1i0" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "master",
-    "last_opened_file_path": "D:/mysite",
-    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
+    "last_opened_file_path": "C:/Users/mysthade/Desktop/django_proj-main"
   }
 }]]></component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-python-sdk-348a24fa61fa-5312c7369657-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-251.23774.444" />
+        <option value="bundled-python-sdk-4f4e415b4190-aa17d162503b-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-243.26053.29" />
       </set>
     </attachedChunks>
   </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="55429e97-8f4d-4765-be31-1fd34119ebc2" name="Changes" comment="" />
-      <created>1745785513150</created>
+      <changelist id="665840aa-fc5c-40f6-9841-075ca7c4ab8a" name="Changes" comment="" />
+      <created>1745764112685</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1745785513150</updated>
+      <updated>1745764112685</updated>
     </task>
     <servers />
-  </component>
-  <component name="Vcs.Log.Tabs.Properties">
-    <option name="OPEN_GENERIC_TABS">
-      <map>
-        <entry key="127ea8ab-aa92-49a1-8b2b-a6ca4621b044" value="TOOL_WINDOW" />
-      </map>
-    </option>
-    <option name="TAB_STATES">
-      <map>
-        <entry key="127ea8ab-aa92-49a1-8b2b-a6ca4621b044">
-          <value>
-            <State />
-          </value>
-        </entry>
-        <entry key="MAIN">
-          <value>
-            <State />
-          </value>
-        </entry>
-      </map>
-    </option>
   </component>
 </project>
